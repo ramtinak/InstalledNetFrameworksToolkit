@@ -1,12 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net45</TargetFramework>
+    <TargetFrameworks>net4;net45</TargetFrameworks>
     <Authors>Ramtin Jokar</Authors>
     <Description>Checks which Dot NET Frameworks is installed without checking registry.</Description>
-    <Copyright>Ramtin Jokar [ Ramtinak@live.com</Copyright>
+    <Copyright>Ramtin Jokar [ Ramtinak@live.com ]</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/ramtinak/InstalledNetFrameworksToolkit/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ramtinak/InstalledNetFrameworksToolkit/</RepositoryUrl>
+    <RepositoryType></RepositoryType>
+    <PackageTags>C#, vb, installation netframeworks, installed netframework, netframework, check</PackageTags>
   </PropertyGroup>
 
 </Project>
