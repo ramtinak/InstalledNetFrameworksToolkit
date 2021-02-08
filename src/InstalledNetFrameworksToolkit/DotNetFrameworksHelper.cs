@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright (c) 2021 - Ramtin Jokar [ Ramtinak@live.com ]
+ * Developer: Ramtin Jokar [ Ramtinak@live.com ] [ My Telegram Account: https://t.me/ramtinak ]
  * 
  * 
  * License: MIT
@@ -52,7 +52,7 @@ namespace InstalledNetFrameworksToolkit
         ///     Checks whether .NET Framework v4.8 is installed or not.
         /// </summary>
         public static bool IsNET48Installed() => 
-            Type.GetType("System.Net.Configuration.SettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089", false) != null;
+            Type.GetType("System.Net.Configuration.WindowsAuthenticationElement, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089", false) != null;
     }
 
 }
