@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net45</TargetFramework>
+    <Authors>Ramtin Jokar</Authors>
+    <Description>Checks which Dot NET Frameworks is installed without checking registry.</Description>
+    <Copyright>Ramtin Jokar [ Ramtinak@live.com</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
