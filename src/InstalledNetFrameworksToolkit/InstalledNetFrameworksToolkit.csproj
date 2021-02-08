@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFrameworks>net4;net45</TargetFrameworks>
     <Authors>Ramtin Jokar</Authors>
-    <Description>Checks which Dot NET Frameworks is installed without checking registry.</Description>
+    <Description>Checks which Dot NET Frameworks is installed, without checking registry.</Description>
     <Copyright>Ramtin Jokar [ Ramtinak@live.com ]</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
